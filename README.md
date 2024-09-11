@@ -13,7 +13,7 @@ In questo readMe, inserisco tutte le cose che ho imparato e che voglio ricordare
   ---
 ### Electronics
 - [Circuit real time simulator](https://www.falstad.com/circuit/circuitjs.html)
-- ### Git
+### Git
 - [Detach (move) subdirectory into separate Git repository](https://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository/17864475#17864475)
 - [Remove a submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
 - [WSL git status shows all fiels modified](https://github.com/microsoft/WSL/issues/184#issuecomment-287853688)
